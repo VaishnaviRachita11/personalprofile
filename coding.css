@@ -1,0 +1,91 @@
+
+header {
+    height:80px;
+    /*border:2px groove green;*/
+    background-color:beige;
+}
+
+h1 {
+
+    color:navy;
+    height:75px;
+    width:30px;
+    margin-left:45%;
+    text-align:center;
+    font-size:38px;
+
+}
+ 
+
+ .photos {
+
+    height:300px;
+
+ }
+  .photos > img {
+    border-radius:15%;
+    margin-left:40%;
+    margin-top:2%;
+    border:2px double green;
+  }
+
+ .description {
+    height:150px;
+    /*border:3px dotted gray;*/
+    background-color:lightcyan;
+    margin-top:4%;
+    text-align:center;
+    color:brown;
+    width:auto;
+ }
+
+ span {
+    height:50px;
+    width:30px;
+    margin-left:5%;
+    color:blueviolet;
+    font-size:35px;
+    font-weight:bolder;
+    
+ }
+
+ .learntskills {
+    height:100px;
+    background-color:whitesmoke;
+    /*border:2px double black;*/
+    border-radius:14%;
+ }
+
+ .learntskills >img {
+    height:75px;
+    margin-top:1%;
+    margin-left:5%;
+    
+ }
+
+ ul {
+   height:160px;
+   background-color:lightgoldenrodyellow;
+   list-style-type:disc
+   
+ }
+
+ footer {
+   height:40px;
+   background-color:powderblue;
+   text-align:center;
+   color:black;
+   font-size:15px;
+   font-weight:bolder;
+
+ }
+
+ .fonttext {
+   font-size:25px;
+   margin-top:2%;
+ }
+
+ 
+
+
+
